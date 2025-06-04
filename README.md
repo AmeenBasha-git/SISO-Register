@@ -51,9 +51,9 @@ end
 endmodule
 ```
 
-**Developed by: N.Lakshanya**
+**Developed by: Ameen Basha A**
 
-**RegisterNumber: 212224230136**
+**RegisterNumber: 212224220008**
 
 
 **RTL LOGIC FOR SISO Shift Register**
